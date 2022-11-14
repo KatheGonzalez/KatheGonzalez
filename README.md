@@ -13,8 +13,23 @@ This is a little bit about me 🤔... <br>
 - 💪 I’m looking to collaborate on web and mobile applications, learn as muchas as I can helping my team achiving our goals.
 - 🌞 I'm looking for just one opportunity to start in this amazing field. 
 
+<details>
+    <summary>Languages & Frameworks</Summary>
+    <ul style="list-style: none">
+        <li>✅ Html 5</li>
+        <li>✅ Css 3</li>
+        <li>✅ JavaScript & TypeScript</li>
+        <li>✅ React.js</li>
+        <li>✅ Aguile Methodologies (SCRUM)</li>
+    </ul>
+</details>
+
+> 💭 Working on projects, more info below this page. 
+
 <h2 align="center">📈 Stats</h2><br>
 
+<div align="center">
+    
 <img
     alt="General Stats"
     src="https://github-readme-stats.vercel.app/api?username=KatheGonzalez&show_icons=true&theme=omni&hide_border=false"  
@@ -35,6 +50,9 @@ This is a little bit about me 🤔... <br>
     style="display: inline-block"
     width="90%" 
 />
+
+
+</div>
 
 <br>
 <h2 align="center"> 📲 Get in touch 📲</h2>
