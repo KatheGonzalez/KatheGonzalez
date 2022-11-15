@@ -33,25 +33,22 @@ This is a little bit about me 🤔... <br>
     alt="General Stats"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatheGonzalez&layout=compact&theme=omni"  
     style="display: inline-block"
-    width="70%" 
+    width="50%" 
 /><br>
 
 <img
     alt="General Stats"
     src="https://github-readme-stats.vercel.app/api?username=KatheGonzalez&show_icons=true&theme=omni&hide_border=false"  
     style="display: inline-block"
-    width="70%" 
+    width="50%" 
 />
 
 <img
     alt="General Stats"
     src="https://streak-stats.demolab.com?user=KatheGonzalez&theme=omni&border_radius=4"  
     style="display: inline-block"
-    width="70%" 
+    width="50%" 
 />
-
-
-
 
 </div>
 
