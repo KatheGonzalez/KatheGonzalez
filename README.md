@@ -29,27 +29,28 @@ This is a little bit about me 🤔... <br>
 <h2 align="center">📈 Stats</h2><br>
 
 <div align="center">
-    
+    <img
+    alt="General Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatheGonzalez&layout=compact&theme=omni"  
+    style="display: inline-block"
+    width="70%" 
+/><br>
+
 <img
     alt="General Stats"
     src="https://github-readme-stats.vercel.app/api?username=KatheGonzalez&show_icons=true&theme=omni&hide_border=false"  
     style="display: inline-block"
-    width="75%" 
+    width="70%" 
 />
 
 <img
     alt="General Stats"
     src="https://streak-stats.demolab.com?user=KatheGonzalez&theme=omni&border_radius=4"  
     style="display: inline-block"
-    width="75%" 
+    width="70%" 
 />
 
-<img
-    alt="General Stats"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatheGonzalez&layout=compact&theme=omni"  
-    style="display: inline-block"
-    width="90%" 
-/>
+
 
 
 </div>
